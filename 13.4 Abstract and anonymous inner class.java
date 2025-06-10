@@ -31,3 +31,4 @@ public class  Demo{
     }
 }
 
+//Here the object is of anonymus class and not of abstract class
