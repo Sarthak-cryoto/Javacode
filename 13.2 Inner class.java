@@ -39,3 +39,4 @@ public class  Demo{
     }
 }
 
+//If class B is non-static then object of A is needed to create a class of A
