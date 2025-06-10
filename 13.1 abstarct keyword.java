@@ -45,3 +45,5 @@ public class  Demo{
     }
 }
 
+//cannot create an object of abstract class .But reference can be created .
+//abstract methods need to be defined in a child class compulsarily.
