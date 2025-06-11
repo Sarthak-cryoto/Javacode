@@ -37,3 +37,6 @@ public class Demo {
     }
 }
 
+//By default all methods in an interface are public and abstract 
+//Interface has static variables since u cannot create an object of an interface and final also because it does not have memory in heap so how can u create a non-final variable
+//kepwords implements is used instead of Extends
